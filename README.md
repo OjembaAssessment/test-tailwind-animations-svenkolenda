@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11499318&assignment_repo_type=AssignmentRepo)
 # Exercises on Animations With Tailwind
 
 WARNING FOR OTHER TRAINERS: THIS REPO HAS NOT YET BEEN TESTED ON OTHER DEVELOPERS. DO NOT USE AS ASSESSMENT AT THE MOMENT (JULY 2023).
